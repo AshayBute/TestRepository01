@@ -1,1 +1,3 @@
 Just a sample file for git
+
+just adding some text after commit
