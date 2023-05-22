@@ -1,0 +1,6 @@
+Sample code file for git
+
+Git status ================================> To check if the file is tracked.
+Git add (File name with extension)=========> To add file for staging
+Git restore (File name with extension)=====> To restore file to previous stage (Deletes changes made in the file after sent to staging ie restore to stage where it was staged)
+Git add --all =============================> To add all files for staging
