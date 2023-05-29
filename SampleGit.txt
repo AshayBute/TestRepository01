@@ -1,6 +1,15 @@
 Sample code file for git
 
-Git status ================================> To check if the file is tracked.
+mkdir =====================================> Creates new folder and makes it a directory
+cd (FOLDER NAME) ==========================> Change directory
+ls ========================================> Gives list of files in the directory
+Git config --global user.name "usrnme"=====> Sets global user name to your name
+Git config --global user.email "email"=====> Sets global user email to your email
+Git config --list =========================> Shows all the configuration of the system
+Git init ==================================> Initialises git in the open directory (Creates git hidden folder)
+
+Tracked and untracked files
+Git status ================================> To check if the file is tracked
 Git add (File name with extension)=========> To add file for staging
 Git restore (File name with extension)=====> To restore file to previous stage (Deletes changes made in the file after sent to staging ie restore to stage where it was staged)
 Git add --all =============================> To add all files for staging
