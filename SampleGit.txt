@@ -13,3 +13,12 @@ Git status ================================> To check if the file is tracked
 Git add (File name with extension)=========> To add file for staging
 Git restore (File name with extension)=====> To restore file to previous stage (Deletes changes made in the file after sent to staging ie restore to stage where it was staged)
 Git add --all =============================> To add all files for staging
+
+Git command -help to get help about all commands with respect to that command.
+Git --help to get list of all commands in git.
+
+Branching in Git
+Branch is a new seperate copy(new version) of a project.
+Git branch ================================> To check current branch and available branches
+Git branch (new name for branch) ==========> Creates a branch with that name
+Git checkout (branch name) ================> Switch to that particular branch
